@@ -14,4 +14,4 @@ Runs on an Arduino Leonardo, which can pretend to be a keyboard. HC-05 Bluetooth
 I am fairly certain that teachers and admins at my school will laugh hysterically at this given the circumstances. This may not be the case at your institution.
 
 # The Result?
-I'll keep you posted.
+It went great. Teacher was intrigued. Class was entertained/confused.
