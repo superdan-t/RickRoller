@@ -3,6 +3,10 @@ For a 2019 senior prank. More details to follow.
 
 Runs on an Arduino Leonardo, which can pretend to be a keyboard. HC-05 Bluetooth module connected to Serial1. MIT crAPP Inventor 2 app will connect to said bluetooth module and issue the typing commands.
 
+### Note from the Future
+
+Reading this because you are snooping on my GitHub repos? In retrospect, this could've been done with just Chrome Remote Desktop in my case, but this was more fun to create because it works on any Windows computer. I was afraid that people would see the mouse moving with Chrome Remote Desktop, so went with this instead. The code in this project isn't anything impressive, and perhaps the story would be more interesting if you were there when it happened.
+
 # The Plan
 1. Plug this into the back of the journalism computer and log on with my admin account.
 2. Install Chrome Remote Desktop (backup plan)
