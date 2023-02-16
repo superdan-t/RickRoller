@@ -43,4 +43,7 @@ Looking back, it would've went a lot better if I had more setup time. My school 
 
 For some reason, I never finished the above sentence until 2023. But here are some fun "Over-Engineered Rick-Roller Device" ideas I would've implemented if I was told about senior prank day earlier:
 * Monitors controlled by a relay so they could be switched on remotely, and they wouldn't come on at all if someone tried ignoring my sticky note warning.
-* 
+* WHy wAS thIs BULLET deLETED AFTER I committed it??? Why is it so difficult to list my improvement ideas?? Could this be a bug with GitHub? Is this why my attempt from 2019 also failed and looked like a mistake? I had to unarchive this repo just to fix it.
+* Anyway, the idea was a companion script on the computer to open the video programmatically instead of emulating a human at the keyboard. The Arduino would still be necessary since the school network wouldn't let me communicate from my phone to the script, so it would be Phone -> Bluetooth -> Arduino -> Serial -> Script
+
+I'm adding an extra line down here so that GitHub doesn't delete my bullet point again.
