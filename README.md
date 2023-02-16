@@ -7,6 +7,11 @@ Runs on an Arduino Leonardo, which can pretend to be a keyboard. HC-05 Bluetooth
 
 Reading this because you are snooping on my GitHub repos? In retrospect, this could've been done with just Chrome Remote Desktop in my case, but this was more fun to create because it works on any Windows computer. I was afraid that people would see the mouse moving with Chrome Remote Desktop, so went with this instead. The code in this project isn't anything impressive, and perhaps the story would be more interesting if you were there when it happened.
 
+### Note from the Future: The Sequel
+
+I don't feel the need to paste my deprecation notice into this repo like I did the others because I think this code will forever be perfect. These years later, I don't think the prank itself was the most important effect. Instead, I had an excuse to quote Rick Astley during my graduation speech. As do most college grads, I'm intending to bury most of my high school memories, but I think this one deserves to live.
+
+
 # The Plan
 1. Plug this into the back of the journalism computer and log on with my admin account.
 2. Install Chrome Remote Desktop (backup plan)
@@ -33,5 +38,9 @@ At the end of the period, I walked into the teacher's class, saying that I heard
 
 When I finally had the teacher as schedules, she was actually very interested in how I went about creating the Rick Astley appearance. By the end of the day, the MicroUSB port broke off of my Arduino Leonardo, but it worked long enough.
 
-Looking back, it would've went a lot better if I had more setup time. My school has a designated senior prank day, which is totally unofficial but agreed upon by the student body. I wasn't told about senior prank day until the end of the previous day, so I had minimal time to arrange everything and my setup was constrained to the first 10 minutes of the school day before classes started (luckily, my first period teacher was late, the teacher that I Rick Rolled was getting coffee and standing outside of the door the most of the time, and I was the webmaster of the student publication, so she didn't question it when I was on the journalism computer and in the wrong class. Hence, she didn't even blame me until I did it the second time). My improvement ideas were:
-*
+Looking back, it would've went a lot better if I had more setup time. My school has a designated senior prank day, which is totally unofficial but agreed upon by the student body. I wasn't told about senior prank day until the end of the previous day, so I had minimal time to arrange everything and my setup was constrained to the first 10 minutes of the school day before classes started (luckily, my first period teacher was late, the teacher that I Rick Rolled was getting coffee and standing outside of the door the most of the time, and I was the webmaster of the student publication, so she didn't question it when I was on the journalism computer and in the wrong class. Hence, she didn't even blame me until I did it the second time). ~~My improvement ideas were:
+*~~
+
+For some reason, I never finished the above sentence until 2023. But here are some fun "Over-Engineered Rick-Roller Device" ideas I would've implemented if I was told about senior prank day earlier:
+* Monitors controlled by a relay so they could be switched on remotely, and they wouldn't come on at all if someone tried ignoring my sticky note warning.
+* 
